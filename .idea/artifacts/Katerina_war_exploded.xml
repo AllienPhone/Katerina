@@ -1,0 +1,79 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Katerina:war exploded">
+    <output-path>$PROJECT_DIR$/target/storm-monitor-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Katerina/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Katerina" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.clojure:clojure:1.5.1" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-exec:1.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.5" />
+          <element id="library" level="project" name="Maven: clj-time:clj-time:0.4.1" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.0" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.5" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: org.jboss.netty:netty:3.2.2.Final" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-framework:2.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.curator:curator-client:2.4.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.5" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:13.0" />
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+          <element id="library" level="project" name="Maven: compojure:compojure:1.1.3" />
+          <element id="library" level="project" name="Maven: org.clojure:core.incubator:0.1.0" />
+          <element id="library" level="project" name="Maven: org.clojure:tools.macro:0.1.0" />
+          <element id="library" level="project" name="Maven: clout:clout:1.0.1" />
+          <element id="library" level="project" name="Maven: ring:ring-core:1.1.5" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.6" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: hiccup:hiccup:0.3.6" />
+          <element id="library" level="project" name="Maven: ring:ring-devel:0.3.11" />
+          <element id="library" level="project" name="Maven: clj-stacktrace:clj-stacktrace:0.2.2" />
+          <element id="library" level="project" name="Maven: ring:ring-jetty-adapter:0.3.11" />
+          <element id="library" level="project" name="Maven: ring:ring-servlet:0.3.11" />
+          <element id="library" level="project" name="Maven: org.mortbay.jetty:jetty:6.1.26" />
+          <element id="library" level="project" name="Maven: org.mortbay.jetty:jetty-util:6.1.26" />
+          <element id="library" level="project" name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211" />
+          <element id="library" level="project" name="Maven: org.clojure:tools.logging:0.2.3" />
+          <element id="library" level="project" name="Maven: org.clojure:math.numeric-tower:0.0.1" />
+          <element id="library" level="project" name="Maven: com.twitter:carbonite:1.4.0" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware.kryo:kryo:2.21" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware.reflectasm:reflectasm:shaded:1.07" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:4.0" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware.minlog:minlog:1.2" />
+          <element id="library" level="project" name="Maven: org.objenesis:objenesis:1.2" />
+          <element id="library" level="project" name="Maven: com.twitter:chill-java:0.3.5" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.3.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.3.2" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.3" />
+          <element id="library" level="project" name="Maven: org.clojure:tools.cli:0.2.4" />
+          <element id="library" level="project" name="Maven: com.googlecode.disruptor:disruptor:2.10.1" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.18" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.31" />
+          <element id="library" level="project" name="Maven: org.jgrapht:jgrapht-core:0.9.0" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.0.6" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.0.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.6.6" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.6.3.Final" />
+          <element id="library" level="project" name="Maven: org.apache.thrift:libthrift:0.9.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.1.0.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
